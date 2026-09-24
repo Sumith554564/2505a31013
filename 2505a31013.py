@@ -82,9 +82,9 @@ st.markdown("""
 # ----------------- PROFILE BANNER ----------------- #
 st.markdown("""
 <div class="student-badge">
-    <div class="badge-name">👨‍🎓 P . MANOHAR</div>
+    <div class="badge-name">sumith chandra</div>
     <div class="badge-sub">
-        <b>Roll No:</b> 2505A31016 &nbsp;|&nbsp; 
+        <b>Roll No:</b> 2505A31013&nbsp;|&nbsp; 
         <b>Branch:</b> Mechanical Engineering &nbsp;|&nbsp; 
         <b>Year:</b> 2nd Year
     </div>
